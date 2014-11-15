@@ -17,3 +17,5 @@ C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-C
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-CodeFirst\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-CodeFirst\obj\Debug\EF04-CodeFirst.exe
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-CodeFirst\obj\Debug\EF04-CodeFirst.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF04-CodeFirst\bin\Debug\EntityFramework.SqlServer.xml

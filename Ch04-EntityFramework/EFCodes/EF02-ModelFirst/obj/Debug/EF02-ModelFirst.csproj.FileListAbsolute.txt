@@ -12,3 +12,5 @@ C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-M
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-ModelFirst\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-ModelFirst\obj\Debug\EF02-ModelFirst.exe
 C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-ModelFirst\obj\Debug\EF02-ModelFirst.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book\Ch04-EntityFramework\EFCodes\EF02-ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
